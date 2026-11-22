@@ -1,1 +1,0 @@
-Improve WireGuard codec error messages and align validation with the certhash pattern.
