@@ -54,7 +54,7 @@ from .utils import (
 
 __author__ = "Steven Buss"
 __email__ = "steven.buss@gmail.com"
-__version__ = "0.3.0"
+__version__ = "0.3.1"
 
 __all__ = [
     "IP4_LOOPBACK",
