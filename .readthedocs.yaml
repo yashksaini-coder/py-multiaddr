@@ -17,5 +17,4 @@ python:
         - dev
 
 formats:
-  - epub
   - htmlzip
