@@ -4,8 +4,8 @@ py-multiaddr
 .. image:: https://img.shields.io/pypi/v/multiaddr.svg
         :target: https://pypi.python.org/pypi/multiaddr
 
-.. image:: https://github.com/multiformats/py-multiaddr/actions/workflows/ci.yml/badge.svg
-        :target: https://github.com/multiformats/py-multiaddr/actions
+.. image:: https://github.com/multiformats/py-multiaddr/actions/workflows/tox.yml/badge.svg
+        :target: https://github.com/multiformats/py-multiaddr/actions/workflows/tox.yml
 
 .. image:: https://codecov.io/github/multiformats/py-multiaddr/coverage.svg?branch=master
         :target: https://codecov.io/github/multiformats/py-multiaddr?branch=master
