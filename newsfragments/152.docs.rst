@@ -1,1 +1,0 @@
-Fix Read the Docs builds: correct the CI badge URL and drop the epub format that failed on remote-image warnings.

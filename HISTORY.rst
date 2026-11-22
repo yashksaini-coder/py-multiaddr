@@ -3,6 +3,15 @@ History
 
 .. towncrier release notes start
 
+py-multiaddr v0.3.1 (2026-11-22)
+--------------------------------
+
+Improved Documentation
+~~~~~~~~~~~~~~~~~~~~~~
+
+- Fix Read the Docs builds: correct the CI badge URL and drop the epub format that failed on remote-image warnings. (`#152 <https://github.com/multiformats/py-multiaddr/issues/152>`__)
+
+
 py-multiaddr v0.3.0 (2026-11-22)
 --------------------------------
 
